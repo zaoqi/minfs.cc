@@ -1,0 +1,1 @@
+var a_index="最小的自由软件和演算";var b_index="the MINimum Free Software and CalCulus";sc_display(a_index);sc_newline();sc_display(b_index);sc_newline();
